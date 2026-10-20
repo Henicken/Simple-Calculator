@@ -1,6 +1,6 @@
 # Simple Calculator 👋
 
-Hey there! This is a simple, clean, and responsive calculator I built using vanilla HTML, CSS, and JavaScript. 
+Hey there! This is a simple, clean, and responsive calculator I built using  HTML, CSS, and JavaScript. 
 
 Whether you're just doing some quick math or looking at how the code works, it's designed to be straightforward and easy to use.
 
@@ -12,7 +12,7 @@ Whether you're just doing some quick math or looking at how the code works, it's
 ## 🛠️ Tech Stack
 I built this using the core web fundamentals:
 * **HTML5** to structure the layout.
-* **CSS3** for styling and making it look good.
+* **CSS** for styling and making it look good.
 * **JavaScript** to handle all the math logic and button clicks.
 
 ## 🚀 Running it locally
